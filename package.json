@@ -1,0 +1,20 @@
+{
+  "name": "power_plop",
+  "version": "1.0.0",
+  "description": "An integration that helps with plop.js setup and creation of generators, templates, actions, partials, and helpers in a dynamic, organized way.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmpprg/power_plop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmpprg/power_plop/issues"
+  },
+  "homepage": "https://github.com/cmpprg/power_plop#readme"
+}
